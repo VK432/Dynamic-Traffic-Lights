@@ -30,4 +30,4 @@ You can control the rate of traffic with '+' and '-', changed between fixed/dyna
 ![](https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(1).png =250x)
 
 
-![alt text](https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(2).png =250x "Screenshot 2")
+![alt text](https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(2).png "Screenshot 2")
