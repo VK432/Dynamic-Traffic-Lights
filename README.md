@@ -1,6 +1,6 @@
 # Dynamic-Traffic-Lights
 A simulation exploring the effects of different dynamic traffic light systems on traffic flow across a cross roads. 
-*Done as part of a group project at The University of Bristol*
+**Done as part of a group project at The University of Bristol**
 
 Either download and run the compiled application.macosx or application.win32. 
 To edit the program first dowload and install Processing(https://processing.org/download/), then download the traffic.pde and data folder.
