@@ -564,7 +564,7 @@ Junction myJunction;
 
 // Setup function
 void setup(){
-  size(constResX, constResY);
+  surface.setSize(constResX, constResY);
   frameRate(constFrameRate);
   
   textFont(createFont("NanumGothic", 14));
