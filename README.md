@@ -3,7 +3,7 @@ A simulation exploring the effects of different dynamic traffic light systems on
 **Done as part of a group project at The University of Bristol**
 
 Either download and run the compiled application.macosx or application.win32. 
-To edit the program first dowload and install Processing(https://processing.org/download/), then download the traffic.pde and data folder.
+To edit the program first dowload and install Processing(https://processing.org/download/), then download the traffic folder and run the traffic.pde.
 A full descrption of how the different dynamic traffic light systems work is availabe in the FinalPresentation.pptx(Reading the notes for each slide of necessary detail).
 
 ### Brief overview
@@ -25,3 +25,9 @@ Method 5:
 
 ### Controls
 You can control the rate of traffic with '+' and '-', changed between fixed/dynamic pattern changes with 'f', and change the method for getting the priority of each car with with ']'
+
+Inline-style: 
+![alt text](Dynamic-Traffic-Lights/DTL1 (1).png "Screenshot 1")
+
+Inline-style: 
+![alt text](Dynamic-Traffic-Lights/DTL1 (2).png "Screenshot 2")
