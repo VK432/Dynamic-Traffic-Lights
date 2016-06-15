@@ -26,6 +26,8 @@ Method 5:
 ### Controls
 You can control the rate of traffic with '+' and '-', changed between fixed/dynamic pattern changes with 'f', and change the method for getting the priority of each car with with ']'
 
-<img src="https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(1).png" width="48">
+<img src="https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(1).png" width="250">
 
-![alt text](https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(2).png "Screenshot 2")
+
+<img src="https://github.com/VK432/Dynamic-Traffic-Lights/blob/master/DTL1%20(2).png" width="250">
+
